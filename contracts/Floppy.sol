@@ -5,7 +5,7 @@ import "openzeppelin-solidity/contracts/access/Ownable.sol";
 import "openzeppelin-solidity/contracts/token/ERC20/extensions/ERC20Burnable.sol";
 import "hardhat/console.sol";
 contract Floppy is
-    ERC20("Floppy", "FLP"),
+    ERC20("Floppy", "TPV"),
     ERC20Burnable,
     Ownable
 {
