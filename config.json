@@ -1,8 +1,8 @@
 {
   "dev": {},
   "sepolia": {
-    "Floppy": "0xD60d16a0D1A83167345672A8e9cd6c63D882C6B2",
-    "Vault": "0x5e3989365e06a3857a409066BdeE97cf72efF52F"
+    "Floppy": "0x10020C6EA7faC90f40DC195D393E64EaD8791360",
+    "Vault": "0xA3D710120540BBb33c40B3e7b274315e617b2A93"
   },
   "main": {}
 }
