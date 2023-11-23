@@ -3,7 +3,6 @@ import {promises as fs} from 'fs'
 var config:any;
 
 export async function initConfig() {
-    console.log('init');
     config = JSON.parse((await fs.readFile('./config.json')).toString());
     return config;
 }

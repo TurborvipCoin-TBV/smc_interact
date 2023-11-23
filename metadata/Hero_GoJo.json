@@ -1,0 +1,49 @@
+{
+    "name":"Hero gojo",
+    "description":"This is anime image turborvip love",
+    "image":"https://ipfs.io/ipfs/QmY2r38rcqs2hL1gV67NXWScCU2EkF1x3FX59xUc1aPz7U?_gl=1*mqkh37*_ga*NDUwNDI3MzQ0LjE2OTg3NDczODY.*_ga_5RMPXG14TE*MTcwMDcwODA2Ny4xLjEuMTcwMDcwODM2OC41OS4wLjA.",
+    "attributes":[
+        {
+            "trait_type": "Speed", 
+            "value": 6,
+            "max_value":10
+          }, 
+          {
+            "trait_type": "control", 
+            "value": 9,
+            "max_value":10
+          }, 
+          {
+            "trait_type": "acceleration", 
+            "value": 7,
+            "max_value":10
+          }, 
+          {
+            "trait_type": "nitro", 
+            "value": 2
+          }, 
+          {
+            "trait_type": "Stamina", 
+            "value": 1.4
+          }, 
+          {
+            "trait_type": "Personality", 
+            "value": "Happy"
+          }, 
+          {
+            "display_type": "boost_number", 
+            "trait_type": "Aqua Power", 
+            "value": 40
+          }, 
+          {
+            "display_type": "boost_percentage", 
+            "trait_type": "Stamina Increase", 
+            "value": 10
+          }, 
+          {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 2
+          }
+    ]
+}

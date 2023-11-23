@@ -6,7 +6,15 @@ dotenv.config({path : __dirname + "/.env"});
 /** @type import('hardhat/config').HardhatUserConfig */
 
 const config: HardhatUserConfig = {
-  solidity: "0.8.19",
+  solidity: {
+    version: "0.8.2",
+    settings: {
+      optimizer: {
+        enabled: true,
+        runs: 200
+      }
+    }
+  },
   networks:{
     sepolia: {
       url: `https://sepolia.infura.io/v3/${process.env.INFURA_API_KEY}`,
