@@ -1,0 +1,27 @@
+{
+  "name": "Stickman Hero #1",
+  "description": "An awesome Stickman Hero!",
+  "image": "https://ipfs.io/ipfs/Qma5G9yTDKCd9XzBT5MucKRxfRd7puns5QWyZXwJXPJSWr?_gl=1*dp1nv0*_ga*MTIzMjg3MTg4Ni4xNzAwNzI3ODQ5*_ga_5RMPXG14TE*MTcwMTE0NDEyMS4zLjEuMTcwMTE0NDQwNy41Mi4wLjA.",
+  "attributes": [
+    {
+      "trait_type": "Hero Type",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Power",
+      "value": "Super Strength"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    }
+  ],
+  "properties": {
+    "rarity": "Legendary",
+    "level": 10,
+    "attack": 95,
+    "defense": 80
+  },
+  "background_color": "ffffff",
+  "animation_url": "https://ipfs.io/ipfs/QmZVYpYfQf4dkW9vyTkoQqf4rDYehUFGqwVu6kdWcxh4oZ?_gl=1*1a14sjl*_ga*MTIzMjg3MTg4Ni4xNzAwNzI3ODQ5*_ga_5RMPXG14TE*MTcwMTE0Njk3OC40LjAuMTcwMTE0Njk3OC42MC4wLjA."
+}

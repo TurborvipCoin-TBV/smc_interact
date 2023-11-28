@@ -1,0 +1,26 @@
+{
+  "name": "Stickman Hero #2",
+  "description": "An awesome Chibi Hero!",
+  "image": "https://ipfs.io/ipfs/QmTD3Fy6uAJ1jVEpzFgU7xBeor1ncuBoh6uD4Y92WkK4M5?_gl=1*1qo7t0u*_ga*MTIzMjg3MTg4Ni4xNzAwNzI3ODQ5*_ga_5RMPXG14TE*MTcwMTE1Mzk2OS41LjEuMTcwMTE1NDA0MS41OC4wLjA.",
+  "attributes": [
+    {
+      "trait_type": "Hero Type",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Power",
+      "value": "Super Strength"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    }
+  ],
+  "properties": {
+    "rarity": "Legendary",
+    "level": 10,
+    "attack": 95,
+    "defense": 80
+  },
+  "background_color": "ffffff"
+}

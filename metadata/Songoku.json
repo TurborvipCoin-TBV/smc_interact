@@ -1,0 +1,49 @@
+{
+    "name":"Songoku",
+    "description":"This is anime image turborvip love",
+    "image":"https://ipfs.io/ipfs/Qma5G9yTDKCd9XzBT5MucKRxfRd7puns5QWyZXwJXPJSWr?_gl=1*dp1nv0*_ga*MTIzMjg3MTg4Ni4xNzAwNzI3ODQ5*_ga_5RMPXG14TE*MTcwMTE0NDEyMS4zLjEuMTcwMTE0NDQwNy41Mi4wLjA.",
+    "attributes":[
+        {
+            "trait_type": "Speed", 
+            "value": 6,
+            "max_value":10
+          }, 
+          {
+            "trait_type": "control", 
+            "value": 9,
+            "max_value":10
+          }, 
+          {
+            "trait_type": "acceleration", 
+            "value": 7,
+            "max_value":10
+          }, 
+          {
+            "trait_type": "nitro", 
+            "value": 2
+          }, 
+          {
+            "trait_type": "Stamina", 
+            "value": 1.4
+          }, 
+          {
+            "trait_type": "Personality", 
+            "value": "Happy"
+          }, 
+          {
+            "display_type": "boost_number", 
+            "trait_type": "Aqua Power", 
+            "value": 40
+          }, 
+          {
+            "display_type": "boost_percentage", 
+            "trait_type": "Stamina Increase", 
+            "value": 10
+          }, 
+          {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 2
+          }
+    ]
+}

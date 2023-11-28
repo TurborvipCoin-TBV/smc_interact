@@ -30,11 +30,11 @@ async function main() {
 
     // const Hero = await ethers.getContractFactory("Hero");
     // const hero = await Hero.deploy();
-    // console.log('stman hero address: ', hero.address);
+    // console.log('sticky man hero address: ', hero.address);
     // Config.setConfig(network + '.Hero', hero.address);
 
     // const MKP = await ethers.getContractFactory("HeroMarketplace");
-    // const heroMarketplace = await MKP.deploy("0xb9727D562012cCF800a5e44b245DA0DA8d6B6E86", "0x8905cE4f0a88d1c0aadc7eE5cA37C79FCa0EBc48");
+    // const heroMarketplace = await MKP.deploy("0xedd647fc41A299ddCcC03C4a37d2311F242e01a3", "0x8905cE4f0a88d1c0aadc7eE5cA37C79FCa0EBc48");
     // console.log('Market deployed at: ', heroMarketplace.address);
     // Config.setConfig(network + '.HeroMarketplace', heroMarketplace.address);
 
