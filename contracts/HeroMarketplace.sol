@@ -102,7 +102,7 @@ contract HeroMarketplace is IERC721Receiver,Ownable {
     }
 
     function buyNft(uint256 _tokenId, uint256 _price) public {
-        require(token.balanceOf(msg.sender) >= _price, "Insufficient account balance");
+        require(token.balanceOf(msg.sender) >= _price, "Insufficient account balance 1");
         require(nft.ownerOf(_tokenId) == address(this), "This NFT doesn't exist on marketplace");
         require(listDetail[_tokenId].price <= _price, "Minimum price has not been reached");
            

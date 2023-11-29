@@ -7,7 +7,8 @@
     "Hero": "0xedd647fc41A299ddCcC03C4a37d2311F242e01a3",
     "HeroMarketplace": "0x2df99590f4E931E8af7414aD78021B2F7aB354e6",
     "AnimeNft": "0x437b9EAFC434b52fDeF3d2ec0E14ABc6654Def10",
-    "Turborvip": "0x8905cE4f0a88d1c0aadc7eE5cA37C79FCa0EBc48"
+    "Turborvip": "0x8905cE4f0a88d1c0aadc7eE5cA37C79FCa0EBc48",
+    "Auction": "0x5870C68b47E75785B4B2f5016EBbDF85Df0520c6"
   },
   "main": {}
 }
