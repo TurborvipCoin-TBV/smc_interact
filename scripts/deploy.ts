@@ -45,10 +45,10 @@ async function main() {
     // await animeNft.mint("https://ipfs.io/ipfs/QmebbkLR3NShCH8x6Dt5PfFnksTUKAgYGnXwWGSGGs2b3f?_gl=1*yf8vnj*_ga*NDUwNDI3MzQ0LjE2OTg3NDczODY.*_ga_5RMPXG14TE*MTcwMDcwODA2Ny4xLjEuMTcwMDcwODY1OS4yNy4wLjA.");
     // console.log('NFT address: ', animeNft.address);
 
-    const Auction = await ethers.getContractFactory("Auction");
-    const auction = await Auction.deploy("0x8905cE4f0a88d1c0aadc7eE5cA37C79FCa0EBc48", "0xedd647fc41A299ddCcC03C4a37d2311F242e01a3");
-    console.log('Auction deployed at: ', auction.address);
-    Config.setConfig(network + '.Auction', auction.address);
+    // const Auction = await ethers.getContractFactory("Auction");
+    // const auction = await Auction.deploy("0x8905cE4f0a88d1c0aadc7eE5cA37C79FCa0EBc48", "0xedd647fc41A299ddCcC03C4a37d2311F242e01a3");
+    // console.log('Auction deployed at: ', auction.address);
+    // Config.setConfig(network + '.Auction', auction.address);
 
     await Config.updateConfig();
     
